@@ -2,3 +2,6 @@
 .venv/
 mlartifacts/
 mlruns/
+dataset.celulas/
+*.zip
+.idea/
