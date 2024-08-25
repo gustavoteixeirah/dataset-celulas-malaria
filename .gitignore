@@ -5,3 +5,4 @@ mlruns/
 dataset.celulas/
 *.zip
 .idea/
+cell_images/
