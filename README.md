@@ -26,6 +26,8 @@ Resultados de Teste
 Acurácia: 0.556875
 F1 score: 0.556689168934481
 ```
+[Link da execução](https://github.com/gustavoteixeirah/dataset-celulas-malaria/blob/main/KMeans.ipynb)
+
 
 #### Random Forest
 ```
@@ -37,3 +39,5 @@ Resultados de Teste
 Acurácia: 0.61
 F1 score: 0.6102854890478067
 ```
+
+[Link da execução](https://github.com/gustavoteixeirah/dataset-celulas-malaria/blob/main/RandomForest.ipynb) 
